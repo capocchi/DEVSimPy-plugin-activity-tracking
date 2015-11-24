@@ -9,7 +9,7 @@ It is a plugin for DEVSimPy which track the activity of DEVSimPy atomic models.
 			 
 #Installation
 In order to view the blink plugin in the DEVSimPy plugin manager (Options->Preferences->Plugins), just:
-* add the activity-tracking and the codepaths.py files into the "plugins" directory of DEVSimPy 
+* add the activity-tracking.py and the codepaths.py files into the "plugins" directory of DEVSimPy 
 * add the string "activity-tracking" to the \__all\__ variable of the plugins/\__init\__.py file 
 
 #Use
