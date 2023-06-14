@@ -5,7 +5,7 @@ It is a plugin for DEVSimPy which track the activity of DEVSimPy atomic models.
 * [python-psutil](https://pypi.python.org/pypi/psutil) for cpu usage
 * [networkx](https://networkx.github.io/) and [pylab](https://pypi.python.org/pypi/pylab) for graph
 * [radon](https://pypi.python.org/pypi/radon) for metrics
-* codepaths file
+* maccabe.py file
 			 
 #Installation
 In order to view the blink plugin in the DEVSimPy plugin manager (Options->Preferences->Plugins), just:
